@@ -1,1 +1,3 @@
-# Authentication_App_Flutter
+# authentication_app_flutter
+
+A new Flutter project.
